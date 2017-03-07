@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /data/rgspider_noemp/Eol_spiders/ResearchGateSpider
+cd /data/rg_research_notemp/ResearchGateSpider
 echo "开始无限循环爬取"
 i=0
 while true
